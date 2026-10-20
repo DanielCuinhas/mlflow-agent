@@ -1,0 +1,12 @@
+mlflow>=3
+scikit-learn
+pandas
+numpy
+langgraph
+langchain-core
+langchain-anthropic
+langchain-openai
+langchain-mcp-adapters
+mcp
+pydantic-settings
+python-dotenv
